@@ -5,17 +5,17 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|3|[Fedor and New Game](http://codeforces.com/problemset/problem/467/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|4|[Random Teams](http://codeforces.com/problemset/problem/478/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|5|[Vanya and Lanterns](http://codeforces.com/problemset/problem/492/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|6|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|7|[Lecture](http://codeforces.com/problemset/problem/499/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|8|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|9|[Anton and currency you all know](http://codeforces.com/problemset/problem/508/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|10|[DZY Loves Strings](http://codeforces.com/problemset/problem/447/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|11|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|1|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|2|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|3|[Fedor and New Game](http://codeforces.com/problemset/problem/467/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|4|[Random Teams](http://codeforces.com/problemset/problem/478/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|5|[Vanya and Lanterns](http://codeforces.com/problemset/problem/492/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|6|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|7|[Lecture](http://codeforces.com/problemset/problem/499/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|8|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|9|[Anton and currency you all know](http://codeforces.com/problemset/problem/508/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|10|[DZY Loves Strings](http://codeforces.com/problemset/problem/447/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|11|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|12|[Little Pony and Sort by Shift](http://codeforces.com/problemset/problem/454/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|13|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|14|[Roadside Trees (Simplified Edition)](http://codeforces.com/problemset/problem/265/B)|Codeforces|2|
