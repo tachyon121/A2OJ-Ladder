@@ -48,7 +48,7 @@
 |<ul><li>- [ ] Done</li></ul>|41|[Han Solo and Lazer Gun](http://codeforces.com/problemset/problem/514/B)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|42|[Garland](http://codeforces.com/problemset/problem/408/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|43|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
-|<ul><li>- [x] Done</li></ul>|44|[Art Union](http://codeforces.com/problemset/problem/416/B)|Codeforces|3|
+|<ul><li>- [ ] Done</li></ul>|44|[Art Union](http://codeforces.com/problemset/problem/416/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|45|[Lucky String](http://codeforces.com/problemset/problem/110/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|46|[Petya and Countryside](http://codeforces.com/problemset/problem/66/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|47|[Archer](http://codeforces.com/problemset/problem/312/B)|Codeforces|3|
