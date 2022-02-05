@@ -37,7 +37,7 @@
 |<ul><li>- [ ] Done</li></ul>|30|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|31|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|32|[Before an Exam](http://codeforces.com/problemset/problem/4/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|33|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|33|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|34|[Lucky Substring](http://codeforces.com/problemset/problem/122/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|35|[Combination](http://codeforces.com/problemset/problem/155/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|36|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
