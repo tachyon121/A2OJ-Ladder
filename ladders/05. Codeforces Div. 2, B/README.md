@@ -72,7 +72,7 @@
 |<ul><li>- [ ] Done</li></ul>|65|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|66|[After Training](http://codeforces.com/problemset/problem/195/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[Magic, Wizardry and Wonders](http://codeforces.com/problemset/problem/231/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|68|[Limit](http://codeforces.com/problemset/problem/197/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|68|[Limit](http://codeforces.com/problemset/problem/197/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|69|[Ancient Prophesy](http://codeforces.com/problemset/problem/260/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|70|[Hometask](http://codeforces.com/problemset/problem/214/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|71|[Well-known Numbers](http://codeforces.com/problemset/problem/225/B)|Codeforces|4|
