@@ -70,7 +70,7 @@
 |<ul><li>- [ ] Done</li></ul>|63|[Xenia and Spies](http://codeforces.com/problemset/problem/342/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|64|[Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|65|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|66|[After Training](http://codeforces.com/problemset/problem/195/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|66|[After Training](http://codeforces.com/problemset/problem/195/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[Magic, Wizardry and Wonders](http://codeforces.com/problemset/problem/231/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|68|[Limit](http://codeforces.com/problemset/problem/197/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|69|[Ancient Prophesy](http://codeforces.com/problemset/problem/260/B)|Codeforces|4|
