@@ -97,7 +97,7 @@
 |<ul><li>- [ ] Done</li></ul>|90|[Surrounded](http://codeforces.com/problemset/problem/190/B)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|91|[Spoilt Permutation](http://codeforces.com/problemset/problem/56/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|92|[PFAST Inc.](http://codeforces.com/problemset/problem/114/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|93|[Martian Dollar](http://codeforces.com/problemset/problem/41/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|93|[Martian Dollar](http://codeforces.com/problemset/problem/41/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|94|[Bargaining Table](http://codeforces.com/problemset/problem/22/B)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|95|[Sysadmin Bob](http://codeforces.com/problemset/problem/31/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|96|[Facetook Priority Wall](http://codeforces.com/problemset/problem/75/B)|Codeforces|4|
