@@ -91,7 +91,7 @@
 |<ul><li>- [ ] Done</li></ul>|84|[Testing Pants for Sadness](http://codeforces.com/problemset/problem/103/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|85|[Running Student](http://codeforces.com/problemset/problem/9/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|86|[Tournament](http://codeforces.com/problemset/problem/27/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|87|[Magical Array](http://codeforces.com/problemset/problem/83/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|87|[Magical Array](http://codeforces.com/problemset/problem/83/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|88|[Help Chef Gerasim](http://codeforces.com/problemset/problem/99/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|89|[Convex Shape](http://codeforces.com/problemset/problem/275/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|90|[Surrounded](http://codeforces.com/problemset/problem/190/B)|Codeforces|5|
