@@ -85,7 +85,7 @@
 |<ul><li>- [x] Done</li></ul>|78|[Inna and Nine](http://codeforces.com/problemset/problem/374/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|79|[Bets](http://codeforces.com/problemset/problem/69/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|80|[Young Photographer](http://codeforces.com/problemset/problem/14/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|81|[Martian Clock](http://codeforces.com/problemset/problem/149/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|81|[Martian Clock](http://codeforces.com/problemset/problem/149/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|82|[Jury Size](http://codeforces.com/problemset/problem/254/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|83|[Hard Work](http://codeforces.com/problemset/problem/61/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|84|[Testing Pants for Sadness](http://codeforces.com/problemset/problem/103/A)|Codeforces|3|
