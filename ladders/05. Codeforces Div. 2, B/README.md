@@ -67,7 +67,7 @@
 |<ul><li>- [x] Done</li></ul>|60|[Little Elephant and Sorting](http://codeforces.com/problemset/problem/205/B)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|61|[Walking in the Rain](http://codeforces.com/problemset/problem/192/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|62|[Two Tables](http://codeforces.com/problemset/problem/228/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|63|[Xenia and Spies](http://codeforces.com/problemset/problem/342/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|63|[Xenia and Spies](http://codeforces.com/problemset/problem/342/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|64|[Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|65|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|66|[After Training](http://codeforces.com/problemset/problem/195/B)|Codeforces|3|
