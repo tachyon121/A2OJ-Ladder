@@ -7,7 +7,7 @@
 |---|:---:|:---:|---|---|
 |<ul><li>- [x] Done</li></ul>|1|[Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|2|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|3|[Team](http://codeforces.com/problemset/problem/401/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|3|[Team](http://codeforces.com/problemset/problem/401/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|4|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|5|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|6|[Table Decorations](http://codeforces.com/problemset/problem/478/C)|Codeforces|4|
