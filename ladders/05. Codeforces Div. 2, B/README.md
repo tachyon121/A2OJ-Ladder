@@ -103,5 +103,5 @@
 |<ul><li>- [ ] Done</li></ul>|96|[Facetook Priority Wall](http://codeforces.com/problemset/problem/75/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|97|[Maximal Area Quadrilateral](http://codeforces.com/problemset/problem/340/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|98|[Traffic Lights](http://codeforces.com/problemset/problem/29/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|99|[Blog Photo](http://codeforces.com/problemset/problem/53/B)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|99|[Blog Photo](http://codeforces.com/problemset/problem/53/B)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|100|[Three matrices](http://codeforces.com/problemset/problem/393/B)|Codeforces|7|
