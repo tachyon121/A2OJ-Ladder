@@ -15,7 +15,7 @@
 |<ul><li>- [ ] Done</li></ul>|8|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|9|[Valera and Tubes ](http://codeforces.com/problemset/problem/441/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|10|[Palindrome Transformation](http://codeforces.com/problemset/problem/486/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|11|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|11|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|12|[Hacking Cypher](http://codeforces.com/problemset/problem/490/C)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|13|[Gargari and Bishops](http://codeforces.com/problemset/problem/463/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|14|[Pocket Book](http://codeforces.com/problemset/problem/152/C)|Codeforces|4|
