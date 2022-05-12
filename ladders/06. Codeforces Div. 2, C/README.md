@@ -20,7 +20,7 @@
 |<ul><li>- [ ] Done</li></ul>|13|[Gargari and Bishops](http://codeforces.com/problemset/problem/463/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|14|[Pocket Book](http://codeforces.com/problemset/problem/152/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|15|[Lucky Sum of Digits](http://codeforces.com/problemset/problem/109/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|16|[Arithmetic Progression](http://codeforces.com/problemset/problem/382/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|16|[Arithmetic Progression](http://codeforces.com/problemset/problem/382/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|17|[Fox and Box Accumulation](http://codeforces.com/problemset/problem/388/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|18|[Hexadecimal's Numbers](http://codeforces.com/problemset/problem/9/C)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|19|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
