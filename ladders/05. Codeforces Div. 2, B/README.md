@@ -34,7 +34,7 @@
 |<ul><li>- [x] Done</li></ul>|27|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|28|[Trace](http://codeforces.com/problemset/problem/157/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|29|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|30|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|30|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|31|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|32|[Before an Exam](http://codeforces.com/problemset/problem/4/B)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|33|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
